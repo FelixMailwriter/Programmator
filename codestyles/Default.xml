@@ -1,1 +1,6 @@
-<code_scheme name="Default" version="173" />
+<code_scheme name="Default" version="173">
+  <codeStyleSettings language="Python">
+    <option name="BLANK_LINES_AROUND_CLASS" value="2" />
+    <option name="BLANK_LINES_AROUND_METHOD" value="2" />
+  </codeStyleSettings>
+</code_scheme>
